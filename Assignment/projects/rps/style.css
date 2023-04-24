@@ -1,0 +1,23 @@
+body{
+    border: red 10px solid;
+    width: 20%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 40px;
+    padding: 20px;
+    font-family: Helvetica, sans-serif;
+
+
+}
+
+.circle {
+    background: red;
+    font-size: 65px;
+    color: white;
+    padding: 5px 30px;
+    border-radius: 50%;
+}
+
+.circle:hover{
+    background: gray;
+}
